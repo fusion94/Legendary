@@ -31,7 +31,7 @@ You can always download a binary in the [iTunes Store](https://itunes.apple.com/
 This application was originally developed using the [Appcelerator Titanium](http://appcelerator.com) framework and will 
 build for iOS only at the moment.
 
-### The Details:
+### Contributing:
 If you care to contribute at all then please see the [CONTRIBUTING File](CONTRIBUTING.md) for more details.
 
 ### License:
