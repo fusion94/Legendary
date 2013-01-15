@@ -1,3 +1,11 @@
+/*
+ * Legendary version 1.2
+ * https://github.com/fusion94/Legendary
+ *
+ * Copyright 2011-2013, http://fusion94.org
+ * Licensed under the Mozilla Public License Version 2.0
+ */
+
 var sexView = Titanium.UI.createView({
 	backgroundColor:'#000',
 	backgroundImage:'../images/plaid.png',
