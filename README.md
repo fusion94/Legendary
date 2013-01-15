@@ -12,9 +12,10 @@ Who is Barney Stinson?
 * Barney is almost always seen wearing a suit and makes great use of his catchphrase, "Suit up!", often modifying it for a particular situation (i.e., "Snowsuit up!" while making an igloo in Central Park, or "Flight suit up!" when he dresses as a "kick a** fighter pilot" for Halloween, or "Slut Up!" when Lily and Robin get ready to go to a high school prom, or when he says "Space suit up Ted, 'cause you're going to the moon," in the episode where Ted may or may not have a threesome).
 
 ### What's New in Version 1.2
-All New 5 Suit Rating System.
-
-Quotes are broken down by season All new popular system. Randomize function.
+* All New 5 Suit Rating System
+* Quotes are broken down by season 
+* All new popular system 
+* Randomize function
 
 ### Coming Soon:
 * Search Functionality
