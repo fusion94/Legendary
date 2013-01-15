@@ -27,6 +27,17 @@ Follow us on Twitter:
 
 You can always download a binary in the [iTunes Store](https://itunes.apple.com/us/app/legendary/id317444914?mt=8)
 
+### Screenshots:
+![Shot 1](https://raw.github.com/fusion94/Legendary/master/screenshots/legendary1.jpg) 
+
+![Shot 2](https://raw.github.com/fusion94/Legendary/master/screenshots/legendary2.jpg) 
+
+![Shot 3](https://raw.github.com/fusion94/Legendary/master/screenshots/legendary3.jpg) 
+
+![Shot 4](https://raw.github.com/fusion94/Legendary/master/screenshots/legendary4.jpg) 
+
+![Shot 5](https://raw.github.com/fusion94/Legendary/master/screenshots/legendary5.jpg)
+
 ### The Details:
 This application was originally developed using the [Appcelerator Titanium](http://appcelerator.com) framework and will 
 build for iOS only at the moment.
