@@ -40,8 +40,9 @@ You can always download a binary in the [iTunes Store](https://itunes.apple.com/
 ![Shot 5](https://raw.github.com/fusion94/Legendary/master/screenshots/legendary5.jpg)
 
 ### The Details:
-This application was originally developed using the [Appcelerator Titanium](http://appcelerator.com) framework and will 
-build for iOS only at the moment.
+This application was originally developed using the [Appcelerator Titanium](http://appcelerator.com) framework and will build for iOS only at the moment.
+
+Most of the graphics and artwork was designed and created by [Greg Kucharo](http://kucharo.com/)
 
 ### Contributing:
 If you care to contribute at all then please see the [CONTRIBUTING File](https://github.com/fusion94/Legendary/blob/master/CONTRIBUTING.md
